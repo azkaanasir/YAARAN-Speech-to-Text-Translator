@@ -1,0 +1,6 @@
+[submodule "audio-recordings"]
+	path = audio-recordings
+	url = https://github.com/ff08435/audio-recordings.git
+[submodule "translate_"]
+	path = translate_
+	url = https://github.com/ff08435/translate_.git
