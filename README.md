@@ -7,15 +7,14 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue) ![React](https://img.shields.io/badge/React-18-61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B) ![Whisper](https://img.shields.io/badge/OpenAI-Whisper-412991) ![License](https://img.shields.io/badge/License-MIT-green)
 
-**Habib University — Senior Year Project 2025**
+**Habib University — Senior Year Project 2025 - 2026**
 
-| Team | Role |
-|---|---|
-| Azkaa Nasir | |
-| Fatima Faisal | |
-| Adina Adnan Mansoor | |
-| Mahrukh Yousuf | |
-
+| Team |
+|---|
+| Azkaa Nasir |
+| Fatima Faisal |
+| Adina Adnan Mansoor |
+| Mahrukh Yousuf |
 **Supervised by:** Tauqeer Saleem · Dr. Abdul Samad
 
 </div>
